@@ -1,0 +1,13 @@
+.jumbotron{
+    font-family: Fantasy, Copperplate;
+  }
+  
+  .jumbotron {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFopzsN9AzdrGoZnVkvUAcGnJsbSDv4NsVg&usqp=CAU");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  body {
+    background-color: lightcyan;
+  }
